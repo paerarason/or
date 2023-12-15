@@ -1,2 +1,4 @@
-# or
-Package that arbitrarily solve Operations Research problems 
+# Operation Research
+
+#### Hungarian assignment Problem
+
